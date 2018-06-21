@@ -1,2 +1,2 @@
 # Github-demo
-study Gitub how to using.
+study Github how to using.
